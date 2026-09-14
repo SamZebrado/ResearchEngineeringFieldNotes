@@ -19,7 +19,7 @@ function OutputData = szPickData(cellData,varList,varNames,subList,subNames)
 % sequence of it will affect the output data
 % 
 % Created and commented by
-% samzebrado@foxmail.com 
+% SamZebrado
 % 7.9.2021
 
 OutputData = cellData(pickMember(subList,subNames),pickMember(varList,varNames));

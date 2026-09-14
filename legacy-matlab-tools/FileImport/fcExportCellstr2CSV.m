@@ -5,7 +5,7 @@ function fcExportCellstr2CSV(filename,c)
 % c: a cell mat, every element contains a string
 % 
 % Created and commented by
-% samzebrado@foxmail.com 
+% SamZebrado
 % 7.9.2021
 % 
 

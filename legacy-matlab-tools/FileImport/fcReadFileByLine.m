@@ -6,7 +6,7 @@ function input_lines = fcReadFileByLine(filename)
 % them in this function)
 % 
 % Created and commented by
-% samzebrado@foxmail.com 
+% SamZebrado
 % 7.9.2021
 % 
     input_lines = {};

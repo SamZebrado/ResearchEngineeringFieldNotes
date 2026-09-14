@@ -9,7 +9,7 @@ function CellOut = fcCellLine2Cell(CellLine)
 % R2020b
 % 
 % Created and commented by
-% samzebrado@foxmail.com 
+% SamZebrado
 % 7.9.2021
 
 nCol = cellfun(@length,CellLine,'UniformOutput',true);% if number of columns differ across rows, use empty cell to pad up the columns

@@ -23,7 +23,7 @@ function content = szCSVRead(filename)
 % fcReadFileByLine (in the same folder)
 % 
 % Created and commented by
-% samzebrado@foxmail.com 
+% SamZebrado
 % 7.9.2021
 
 input_lines = fcReadFileByLine(filename);
