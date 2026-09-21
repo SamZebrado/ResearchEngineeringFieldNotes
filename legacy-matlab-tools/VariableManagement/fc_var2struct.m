@@ -22,7 +22,7 @@ function [s,var_list] = fc_var2struct(varargin)
 %         s = fc_var2struct(a,b,c)
 %         [d,e,f] = fc_struct2var(s,a,b,c)
 %
-% Sam Z. Shan Sep 16, 2022
+% SamZebrado Sep 16, 2022
 % Hints from
 % https://www.mathworks.com/matlabcentral/answers/382503-how-can-i-get-the-name-of-a-matlab-variable-as-a-string
 %

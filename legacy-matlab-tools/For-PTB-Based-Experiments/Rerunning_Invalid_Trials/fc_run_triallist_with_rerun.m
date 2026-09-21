@@ -45,7 +45,7 @@ function [TrialOutputs,rerun_trial_container] = ...
 %                     will be passed to fc_rerun_criteria(response) as response
 %                     determine whether the current trial should be reran
 %
-% last edited by Sam Z. Shan Jun 23, 2022
+% last edited by SamZebrado Jun 23, 2022
 
 len_trial_list = length(i_trial_list(:));
 

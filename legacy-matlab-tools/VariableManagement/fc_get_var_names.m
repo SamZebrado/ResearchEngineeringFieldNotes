@@ -7,7 +7,7 @@ function var_list = fc_get_var_names(varargin)
 %         c = rand(60,1)
 %         varlist = fc_get_var_names(a,b,c)
 %
-% Sam Z. Shan Sep 16, 2022
+% SamZebrado Sep 16, 2022
 % Hints from
 % https://www.mathworks.com/matlabcentral/answers/382503-how-can-i-get-the-name-of-a-matlab-variable-as-a-string
 %
